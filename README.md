@@ -5,6 +5,6 @@
 
 
 ### Awards :trophy:
-- <img src="https://img.shields.io/badge/-competition-4E3686?style=flat"></img> [Winner of the Ocean Cleanup Data Challenge at the UMD Data Challenge 2020](https://datachallenge.ischool.umd.edu/dc20/). Awarded the Most Innovative Project, and the Outstanding UMBC Project categories.
-- <img src="https://img.shields.io/badge/-competition-4E3686?style=flat"></img> [Hackathon Winning Project, Personal Assistant Glasses at the hackUMBC 2019](https://devpost.com/software/the-vision). Awarded the 1st place, Best Data Science Hack, and the Most Unique Hack categories.
+- <img src="https://img.shields.io/badge/-competition-0392CF?style=flat"></img> [Winner of the Ocean Cleanup Data Challenge at the UMD Data Challenge 2020](https://datachallenge.ischool.umd.edu/dc20/). Awarded the Most Innovative Project, and the Outstanding UMBC Project categories.
+- <img src="https://img.shields.io/badge/-competition-0392CF?style=flat"></img> [Hackathon Winning Project, Personal Assistant Glasses at the hackUMBC 2019](https://devpost.com/software/the-vision). Awarded the 1st place, Best Data Science Hack, and the Most Unique Hack categories.
 - <img src="https://img.shields.io/badge/-scholarship-E23349?style=flat"></img> [CyberCorps Scholarship for Service (SFS) | National Science Foundation (NSF)](https://cybersecurity.umbc.edu/scholarship-for-service-sfs-federal-cybercorps/)
