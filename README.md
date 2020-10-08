@@ -1,2 +1,3 @@
-### Publications
-- :page_facing_up: [COVID-19 Kaggle Literature Organization](https://dl.acm.org/doi/10.1145/3395027.3419591). **Maksim Ekin Eren**, Nick Solovyev, Edward Raff, Charles Nicholas, and Ben Johnson. In ACM Sym- posium on Document Engineering 2020 (DocEng ’20), September 29-October 2, 2020, Virtual Event, CA, USA. <img src="https://img.shields.io/badge/-conference-blue"></img>
+### Publications :page_facing_up:
+- [Multi-Dimensional Anomalous Entity Detection via Poisson Tensor Factorization](). **Maksim E. Eren**, Juston Moore and Boian Alexandrov. *To Appear in Proceedings of the IEEE International Conference on Intelligence and Security Informatics (ISI) 2020* <img src="https://img.shields.io/badge/-preprint-lightgray"></img>
+- [COVID-19 Kaggle Literature Organization](https://dl.acm.org/doi/10.1145/3395027.3419591). **Maksim Ekin Eren**, Nick Solovyev, Edward Raff, Charles Nicholas, and Ben Johnson. In ACM Sym- posium on Document Engineering 2020 (DocEng ’20), September 29-October 2, 2020, Virtual Event, CA, USA. <img src="https://img.shields.io/badge/-conference-blue"></img>
