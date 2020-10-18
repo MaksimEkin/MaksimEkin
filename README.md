@@ -1,4 +1,4 @@
-I am an undergraduate Computer Science student and CyberCorps scholar at the University of Maryland, Baltimore County (UMBC). I conduct undergraduate research at UMBC and work as an Undergraduate Research Assitant at Los Alamos National Laboratory (LANL). My research interests are at the interdisciplinary intersection of machine learning and cybersecurity. 
+I am an undergraduate Computer Science student and a CyberCorps scholar at the University of Maryland, Baltimore County (UMBC). I conduct undergraduate research at UMBC and work as an Undergraduate Research Assitant at Los Alamos National Laboratory (LANL). My research interests are at the interdisciplinary intersection of machine learning and cybersecurity. 
 
 
 ### :page_facing_up: Publications
