@@ -2,7 +2,7 @@ I am an undergraduate Computer Science student and a CyberCorps scholar at the U
 
 
 ### :page_facing_up: Publications
-- <img src="https://img.shields.io/badge/-conference-011B56?style=flat"></img> Multi-Dimensional Anomalous Entity Detection via Poisson Tensor Factorization. **Maksim Ekin Eren**, Juston Moore and Boian Alexandrov. *To Appear in Proceedings of the IEEE International Conference on Intelligence and Security Informatics (ISI) 2020*.
+- <img src="https://img.shields.io/badge/-conference-011B56?style=flat"></img> [Multi-Dimensional Anomalous Entity Detection via Poisson Tensor Factorization](https://www.maksimeren.com/preprint/Multi-Dimensional_Anomalous_Entity_Detection_via_Poisson_Tensor_Factorization.pdf). **Maksim Ekin Eren**, Juston Moore and Boian Alexandrov. *To Appear in Proceedings of the IEEE International Conference on Intelligence and Security Informatics (ISI) 2020*.
 - <img src="https://img.shields.io/badge/-conference-011B56?style=flat"></img> [COVID-19 Kaggle Literature Organization](https://dl.acm.org/doi/10.1145/3395027.3419591). **Maksim Ekin Eren**, Nick Solovyev, Edward Raff, Charles Nicholas, and Ben Johnson. In ACM Symposium on Document Engineering 2020 (DocEng ’20), September 29-October 2, 2020, Virtual Event, CA, USA.
 - <img src="https://img.shields.io/badge/-journal-FE7C00?style=flat"></img> [Project-based learning continues to inspire cybersecurity students: the 2018--2019 SFS research studies at UMBC](https://doi.org/10.1145/3386363). Enis Golaszewski, Alan T. Sherman, et al. including **Maksim Ekin Eren**. ACM Inroads 2020.
 
