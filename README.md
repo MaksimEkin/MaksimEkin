@@ -1,4 +1,4 @@
-I am a graduate Computer Science student and a CyberCorps scholar at the University of Maryland, Baltimore County (UMBC). I conduct research at UMBC and work as a Research Assitant at Los Alamos National Laboratory (LANL). My research interests are at the interdisciplinary intersection of machine learning and cybersecurity.
+I am a graduate Computer Science student and a CyberCorps scholar at the University of Maryland, Baltimore County (UMBC). I conduct research at UMBC and work as a Research Assitant at Los Alamos National Laboratory (LANL). My interdisciplinary research interests lie at the intersection of machine learning and cybersecurity.
 
 ### :page_facing_up: Publications
 - <img src="https://img.shields.io/badge/-conference-011B56?style=flat"></img> [Multi-Dimensional Anomalous Entity Detection via Poisson Tensor Factorization](https://www.maksimeren.com/publication/eren_isi2020/). **Maksim Ekin Eren**, Juston Moore and Boian Alexandrov. In Proceedings of the IEEE International Conference on Intelligence and Security Informatics 2020 (ISI'20), November 9-10, 2020, Virtual Event, USA.
