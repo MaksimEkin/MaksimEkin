@@ -1,6 +1,6 @@
 <div align="center", style="font-size: 50px">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MaksimEkin&show_icons=true&hide_border=true&theme=dracula&count_private=True"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaksimEkin&show_icons=true&hide_border=true&theme=dracula&count_private=True&hide_rank=True"></img>
 
 </div>
 
